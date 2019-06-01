@@ -1,24 +1,3 @@
-name: car-behavioral-cloning
-channels:
-    - https://conda.anaconda.org/menpo
-    - conda-forge
-dependencies:
-    - python==3.5.2
-    - numpy
-    - matplotlib
-    - jupyter
-    - opencv3
-    - pillow
-    - scikit-learn
-    - scikit-image
-    - scipy
-    - h5py
-    - eventlet
-    - flask-socketio
-    - seaborn
-    - pandas
-    - imageio
-    - pip:
-        - moviepy
-        - tensorflow==1.1
-        - keras==1.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ebbc3bd03159be0394ff1993755503bf8a94bc9a8425c9266db3a8bf0fc9866
+size 414
