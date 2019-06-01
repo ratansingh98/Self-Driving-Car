@@ -1,6 +1,6 @@
 # Self Driving Car
 
-## Use ```git lfs clone https://github.com/ratansingh98/Self-Driving-Car.git``` to fetch all files.
+Use ```git lfs clone https://github.com/ratansingh98/Self-Driving-Car.git``` to fetch all files.
 
 Overview
 ---
