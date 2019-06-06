@@ -45,9 +45,17 @@ Or you can manually install the required libraries (see the contents of the envi
 
 Start up [the Udacity self-driving simulator](https://github.com/udacity/self-driving-car-sim), choose a scene and press the Autonomous Mode button.  Then, run the model as follows:
 
+For driving using modelv1
 ```python
 python drive.py model.h5
 ```
+
+For driving using modelv2
+```python
+python drive.py modelv2.h5
+```
+
+**Note :** Modelv2 work for both sim v1 and sim v2, whereas in Modelv1 car crashes for simv2
 
 ### To train the model
 
